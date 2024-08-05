@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d1765427f53c455e9a13dbd11250f548/artifacts
+end_time: 1722838453879
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1765427f53c455e9a13dbd11250f548
+run_name: overjoyed-shoat-807
+run_uuid: d1765427f53c455e9a13dbd11250f548
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722838443439
+status: 3
+tags: []
+user_id: richa
