@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/30e5ea4b0ced40e0acc08534b9afc749/artifacts
+deleted_time: 1722944042048
+end_time: 1722943277054
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 30e5ea4b0ced40e0acc08534b9afc749
+run_name: powerful-sponge-530
+run_uuid: 30e5ea4b0ced40e0acc08534b9afc749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722943259098
+status: 3
+tags: []
+user_id: accessalok

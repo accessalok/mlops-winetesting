@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/d1765427f53c455e9a13dbd11250f548/artifacts
+deleted_time: 1722917199744
 end_time: 1722838453879
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d1765427f53c455e9a13dbd11250f548
 run_name: overjoyed-shoat-807
 run_uuid: d1765427f53c455e9a13dbd11250f548

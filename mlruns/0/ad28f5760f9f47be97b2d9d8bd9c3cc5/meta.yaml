@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ad28f5760f9f47be97b2d9d8bd9c3cc5/artifacts
+deleted_time: 1722917199741
+end_time: 1722859444363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ad28f5760f9f47be97b2d9d8bd9c3cc5
+run_name: incongruous-worm-687
+run_uuid: ad28f5760f9f47be97b2d9d8bd9c3cc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722859425573
+status: 3
+tags: []
+user_id: accessalok

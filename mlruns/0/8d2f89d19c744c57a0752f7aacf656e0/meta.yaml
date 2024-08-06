@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/8d2f89d19c744c57a0752f7aacf656e0/artifacts
+deleted_time: 1722944042051
+end_time: 1722942523461
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 8d2f89d19c744c57a0752f7aacf656e0
+run_name: stylish-croc-436
+run_uuid: 8d2f89d19c744c57a0752f7aacf656e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722942504879
+status: 3
+tags: []
+user_id: accessalok

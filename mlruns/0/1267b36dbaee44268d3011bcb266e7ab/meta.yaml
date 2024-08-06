@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1267b36dbaee44268d3011bcb266e7ab/artifacts
+deleted_time: 1722917199725
+end_time: 1722864271485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1267b36dbaee44268d3011bcb266e7ab
+run_name: delightful-shrew-967
+run_uuid: 1267b36dbaee44268d3011bcb266e7ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722864251604
+status: 3
+tags: []
+user_id: accessalok

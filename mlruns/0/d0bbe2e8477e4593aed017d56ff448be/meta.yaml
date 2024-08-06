@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d0bbe2e8477e4593aed017d56ff448be/artifacts
+deleted_time: 1722917199725
+end_time: 1722863348876
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d0bbe2e8477e4593aed017d56ff448be
+run_name: persistent-loon-704
+run_uuid: d0bbe2e8477e4593aed017d56ff448be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722863329667
+status: 3
+tags: []
+user_id: accessalok

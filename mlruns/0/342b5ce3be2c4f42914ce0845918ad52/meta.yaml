@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/342b5ce3be2c4f42914ce0845918ad52/artifacts
+deleted_time: 1722944042056
+end_time: 1722918003895
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 342b5ce3be2c4f42914ce0845918ad52
+run_name: gaudy-penguin-102
+run_uuid: 342b5ce3be2c4f42914ce0845918ad52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722917986197
+status: 3
+tags: []
+user_id: accessalok

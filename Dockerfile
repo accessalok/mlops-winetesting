@@ -7,7 +7,7 @@ COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
 
 COPY app.py app.py
-COPY model.pkl model.pkl
+COPY best_model.pkl best_model.pkl
 
 EXPOSE 5000
 

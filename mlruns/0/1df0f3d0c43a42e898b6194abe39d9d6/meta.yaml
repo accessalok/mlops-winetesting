@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/0/1df0f3d0c43a42e898b6194abe39d9d6/artifacts
+deleted_time: 1722917199746
 end_time: 1722838045816
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1df0f3d0c43a42e898b6194abe39d9d6
 run_name: invincible-hog-867
 run_uuid: 1df0f3d0c43a42e898b6194abe39d9d6

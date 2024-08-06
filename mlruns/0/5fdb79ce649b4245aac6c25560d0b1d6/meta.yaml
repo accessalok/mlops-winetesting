@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/5fdb79ce649b4245aac6c25560d0b1d6/artifacts
+end_time: 1722944178472
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fdb79ce649b4245aac6c25560d0b1d6
+run_name: abrasive-croc-392
+run_uuid: 5fdb79ce649b4245aac6c25560d0b1d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722944159320
+status: 3
+tags: []
+user_id: accessalok

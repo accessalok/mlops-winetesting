@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/9e6a3a1cc0f044a79702579b9f304c0c/artifacts
+deleted_time: 1722917199739
+end_time: 1722860537906
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9e6a3a1cc0f044a79702579b9f304c0c
+run_name: dapper-squid-378
+run_uuid: 9e6a3a1cc0f044a79702579b9f304c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722860520387
+status: 3
+tags: []
+user_id: accessalok
